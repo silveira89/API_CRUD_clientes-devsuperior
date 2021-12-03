@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Projeto de uma Api Rest CRUD que faz cadastro de Clientes em Java, desenvolvido durante o Bootcamp Spring React da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Projeto de uma Api Rest CRUD que faz cadastro de Clientes em Java, desenvolvido durante o Bootcamp Spring React da [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/silveira89/API_CRUD_clientes-devsuperior/blob/main/assets/modelo%20conceitual.png)
